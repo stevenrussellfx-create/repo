@@ -1,3 +1,5 @@
+{
+  "code": 200,
   "routes": [
     {
       "languages": ["ru"],
@@ -31,7 +33,7 @@
         "Dushanbe",
         "Tashkent"
       ],
-      "urls": ["https://wlflowgo.com/4dCNehUg"]
+      "urls": ["https://reddit.com/"]
     }
   ]
 }
